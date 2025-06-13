@@ -1,0 +1,18 @@
+{
+    "name": "Behaviour.Graph.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Behaviour.Graph",
+        "Behaviour.Vars",
+        "Behaviour.Vars.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

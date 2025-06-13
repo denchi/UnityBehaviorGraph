@@ -1,0 +1,4 @@
+{
+    "name": "Behaviour.Graph",
+    "references": ["Behaviour.Vars"]
+}
