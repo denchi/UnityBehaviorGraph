@@ -1,6 +1,6 @@
 # Behaviour Graph
 
-A Unity graph execution system: `ScriptableObject` graphs of tasks, with execution links and typed value ports, started by a `Flowgraph` component.
+Behaviour Graph runs task graphs stored as ScriptableObjects. Execution links control flow, typed ports carry values, and a `Flowgraph` component starts the graph.
 
 Package: `com.deathbygravitystudio.behaviour.graph` 0.1.0 (`Behaviour Graph`).
 
